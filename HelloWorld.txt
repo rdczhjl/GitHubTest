@@ -1,3 +1,9 @@
 Yes, I do
 
+
+
+<<<<<<< HEAD
 I changed it locally
+=======
+It is changed.
+>>>>>>> 5504a52dfed20bc2dd54665cdd07118edeb13e6a
